@@ -21,7 +21,7 @@ html,body{
   display:flex;
   background-color:navy;
   gap:3vw;
-  color:white;
+  color:black;
 }
 .nav h2{
   font-size:2vw;
@@ -29,4 +29,5 @@ html,body{
 }
 .nav h4{
   font-size:2vw;
+ 
 }
